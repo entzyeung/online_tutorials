@@ -1,2 +1,2 @@
-# online_tutorials
+# Tutorials
 For all kinds of online tutorials.
